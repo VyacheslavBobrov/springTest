@@ -1,4 +1,4 @@
-package com.github.bobrov.vyacheslav.springTest.controllers;
+package controllers;
 
 class RestException extends Exception {
     RestException(Throwable cause) {
